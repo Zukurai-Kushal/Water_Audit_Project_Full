@@ -3,7 +3,7 @@
 This repo contains the full raw source code for my water audit project. 
 The "Data Analysis if Water Audit Project" jupyternotebook show cases the work done in this project and is availible for preview.
 
-This repo also has three zip files for downloading a more compressed file size, please follow the following instructions for set up:
+This repo has three zip files, please follow the following instructions for set up:
 
   (1) "MachineLearning.zip" contains the data analysis and machine learning perfomed on the water consumption data, please run the jupyternotebook file.
   
