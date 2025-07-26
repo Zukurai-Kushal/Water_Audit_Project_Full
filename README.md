@@ -1,4 +1,8 @@
-# Water_Audit_Project_Full
+# Smart Water Auditing (AIoT)
+
+An Artificial Intelligence of Things (AIoT) system for smart water auditing. The system logs water use date for a residential household using a novel non-invasive approach, then uses the data to train a general SVM model capable of classifying water flow events based on the household's water meter readings alone.
+
+# File information
 
 This repo contains the full raw source code for my water audit project. 
 The "Data Analysis if Water Audit Project" jupyternotebook show cases the work done in this project and is availible for preview.
